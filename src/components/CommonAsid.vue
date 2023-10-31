@@ -75,9 +75,6 @@ export default {
   width: 200px;
   min-height: 400px;
 }
-p{
-
-}
 .el-menu {
   height: 100vh;
 
