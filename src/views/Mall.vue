@@ -40,6 +40,7 @@ export default {
 
 
 }
+p{}
 .el-col-offset-2{
   margin:auto 20px;
 }
